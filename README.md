@@ -71,7 +71,7 @@ This repo was built for my ongoing project of publishing an introductory Chinese
 分工：
 
 - 姜鹤、黄明珠：分层线性模型
-
+- 李莹、荣杨：结构方程模型
 
 吕小康
 
