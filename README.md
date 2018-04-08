@@ -29,6 +29,7 @@ This repo was built for my ongoing project of publishing an introductory Chinese
 
 ## 撰写语法
 
+
 - 中文语句中出现英文单词，该英文单词两侧需要有英文状态下的空格。例如，“如何利用 R 的向量化运算特征来实现目的”。
 - 所有的 R 包名称，应当加粗，即使用一对\*号包裹。例如，Hadley 开发的**dplyr**包。
 - 所有的 R 命令，行内的应放在\`\`中，如`?mtcars`；行间的应放在\`\`\` 和 \`\`\`中。
@@ -75,8 +76,7 @@ This repo was built for my ongoing project of publishing an introductory Chinese
 |:---:|:---:|:---:|
 |姜鹤| | 分层线性模型|
 |荣杨| | 结构方程|
-
-
+|李莹| | 结构方程|
 
 吕小康
 
